@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJqdWFuIiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzUzNDg1MTM1fQ.P3s7u6CPx2PtcSg-4FjiEb3y15rKOQCaWGT9_oyJ72Q
